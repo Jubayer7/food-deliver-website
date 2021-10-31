@@ -1,0 +1,21 @@
+.footer{
+    background-color: blue;
+    color: white;
+}
+
+
+.follow i{
+ margin: 10px;
+ font-size: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.contact i{
+    margin: 8px;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.copyright{
+background-color: slategray;
+}

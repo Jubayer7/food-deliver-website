@@ -4,4 +4,4 @@ import firebaseConfig from "./firebase.config";
 const initializeAuthintication = () => {
     initializeApp(firebaseConfig);
 }
-export default firebaseConfig;
+export default initializeAuthintication;
